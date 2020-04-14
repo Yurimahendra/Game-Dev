@@ -59,6 +59,13 @@
      <Compile Include="Assets\SampleScenes\Scripts\ParticleSceneControls.cs" />
      <Compile Include="Assets\SampleScenes\Scripts\PlaceTargetWithMouse.cs" />
      <Compile Include="Assets\SampleScenes\Scripts\SlowMoButton.cs" />
+     <Compile Include="Assets\Script\EnemyMovement.cs" />
+     <Compile Include="Assets\Script\Health.cs" />
+     <Compile Include="Assets\Script\LookX.cs" />
+     <Compile Include="Assets\Script\LookY.cs" />
+     <Compile Include="Assets\Script\ObjectCollison.cs" />
+     <Compile Include="Assets\Script\PlayerMovement.cs" />
+     <Compile Include="Assets\Script\Rifle.cs" />
      <None Include="Assets\Standard Assets\Effects\GlassRefraction\Shaders\GlassStainedBumpDistort.shader" />
      <None Include="Assets\Standard Assets\Effects\ToonShading\Shaders\ToonBasic.shader" />
      <None Include="Assets\Standard Assets\Prototyping\Shaders\WorldCoordDiffuse.shader" />
@@ -95,7 +102,7 @@
      <None Include="Assets\Standard Assets\Effects\TessellationShaders\Shaders\BumpedSpecularDisplacement.shader" />
      <None Include="Assets\SampleScenes\Shaders\Skybox-Procedural.shader" />
  <Reference Include="Facebook.Unity.Settings">
- <HintPath>/home/yuri/Documents/Mata_kuliah/Semester_6/game Dev/Survival1/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
+ <HintPath>/home/yuri/Documents/Mata_kuliah/Semester_6/Game-Dev/Survival1/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>/opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
