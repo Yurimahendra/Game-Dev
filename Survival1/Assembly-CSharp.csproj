@@ -59,12 +59,15 @@
      <Compile Include="Assets\SampleScenes\Scripts\ParticleSceneControls.cs" />
      <Compile Include="Assets\SampleScenes\Scripts\PlaceTargetWithMouse.cs" />
      <Compile Include="Assets\SampleScenes\Scripts\SlowMoButton.cs" />
+     <Compile Include="Assets\Script\EnemyAnimation.cs" />
      <Compile Include="Assets\Script\EnemyMovement.cs" />
      <Compile Include="Assets\Script\Health.cs" />
      <Compile Include="Assets\Script\LookX.cs" />
      <Compile Include="Assets\Script\LookY.cs" />
      <Compile Include="Assets\Script\ObjectCollison.cs" />
+     <Compile Include="Assets\Script\PlayerAnimation.cs" />
      <Compile Include="Assets\Script\PlayerMovement.cs" />
+     <Compile Include="Assets\Script\Ragdoll.cs" />
      <Compile Include="Assets\Script\Rifle.cs" />
      <None Include="Assets\Standard Assets\Effects\GlassRefraction\Shaders\GlassStainedBumpDistort.shader" />
      <None Include="Assets\Standard Assets\Effects\ToonShading\Shaders\ToonBasic.shader" />
